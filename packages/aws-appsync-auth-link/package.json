@@ -27,7 +27,7 @@
     "@types/graphql": "0.12.4",
     "@types/jest": "24",
     "@types/node": "^8.0.46",
-    "@types/zen-observable": "^0.5.3",
+    "@types/zen-observable": "^0.8.7",
     "graphql-tag": "^2.9.2",
     "jest": "24",
     "node-fetch": "^2.2.0",
