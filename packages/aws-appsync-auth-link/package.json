@@ -30,7 +30,7 @@
     "@types/zen-observable": "^0.5.3",
     "graphql-tag": "^2.9.2",
     "jest": "24",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.7.0",
     "ts-jest": "24",
     "typescript": "^3.0.1"
   }
